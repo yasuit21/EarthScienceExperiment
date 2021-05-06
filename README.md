@@ -1,2 +1,2 @@
 # EarthScienceExperiment
-Experiment on Earth Science (Seismology) @KU
+Experiment on Earth Science (Seismology) at KU
