@@ -1,7 +1,7 @@
 # EarthScienceExperiment
 
 ## 概要
-　これは，2021年度前期地球科学実験の「地震」の受講者が，観測波形をフォーマット変換したり，波形を描画したりするためのサンプルコードです。Python及びGoogle Collaboratoryを使用しています。
+　これは，2021年度前期地球科学実験の「地震」の受講者が，観測波形をフォーマット変換したり，波形を描画したりするためのサンプルコードです。Python及びGoogle Colaboratoryを使用しています。
 
 ## 使用手順
 - 共有ドライブ `EarthScienceExperiment` のショートカットを作成
