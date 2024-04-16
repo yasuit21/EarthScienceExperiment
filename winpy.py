@@ -33,7 +33,7 @@ class WinTools():
         
     def read(
         self, filepath, IDs=None, 
-        respAD=5.11745*10**-8, sensitivity=70.,
+        respAD=1.02084*10**-7, sensitivity=70.,
     ):
         """Read an WIN file to create obspy.Stream object.
         
